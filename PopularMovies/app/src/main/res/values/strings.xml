@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="favorite_pivot">Favorites</string>
+    <string name="movies_popular">Popular</string>
+    <string name="movies_top">Top rated</string>
+    <string name="add_fav">Add to Fav</string>
+    <string name="see_review">View review</string>
+    <string name="cd_btn_fav">Button Favorite</string>
+    <string name="cd_btn_mvp">Button Movie</string>
+    <string name="cd_btn_mvi">Button Movie Item</string>
+    <string name="cd_btn_cls">Button Close</string>
+    <string name="cd_btn_vodi">Button VideoItem</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="year">year</string>
+    <string name="language">language</string>
+    <string name="rating">rating</string>
+    <string name="trailers">Trailers: </string>
+    <string name="default_review">Review</string>
+    <string name="author">Author</string>
+    <string name="trailer_def">Trailer Default</string>
+</resources>
